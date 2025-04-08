@@ -1,0 +1,5 @@
+Each file shows simple code about a particular concept. Some concepts may overlap some.
+
+There is the four pillars of OOP: inheritance, encapsulation, polymorphism, abstraction.
+
+The other basic concepts are: conditional statements, functions and calling functions, dictionaries, error handling (try and except), and imports. Overall, I cover some basic variables.
